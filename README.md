@@ -7,7 +7,7 @@ Proyecto base para utilizar `JSP` con `TOMCAT` como app server y `HTTPD` como pr
 ### Instalación
 1. Instalar `docker`
 2. Instalar `docker-compose`
-3. Instalar `apache maven`
+3. Instalar `apache maven` (Se debe validar que se tenga el JDK)
 
 ### Construcción de la infraestructura
 1. `docker-compose build  # Desde dentro de la carpeta del proyecto`
